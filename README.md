@@ -12,7 +12,7 @@ Infographic designers include:
   - Infographics/Vaccine Information/being-vaccinated-is-not-enough
   - Infographics/Vaccine Information/discarded-doses
 
-* Joli Holmes
+* [Joli Holmes](https://github.com/holmesjoli)
   - Infographics/Vaccine Information/importance-of-masking-with-vaccine
   - Infographics/Vaccine Information/race-ethnicity-vaccine
  
