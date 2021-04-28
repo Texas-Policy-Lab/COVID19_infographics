@@ -8,7 +8,7 @@ Although efforts have been made to provide current and accurate information in t
 
 Infographic designers include:
 
-* Spoorthi Kamepalli
+* [Spoorthi Kamepalli](https://github.com/spoorthi-k113)
   - Infographics/Vaccine Information/being-vaccinated-is-not-enough
   - Infographics/Vaccine Information/discarded-doses
 
